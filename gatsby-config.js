@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `A blog i write to teach myself`,
+    name: `Gangaprasad Mohite`,
+    siteUrl: `https://mohiteg.netlify.com`,
+    description: `I read to know`,
     hero: {
       heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
       maxWidth: 652,
@@ -11,23 +11,15 @@ module.exports = {
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/narative`,
+        url: `https://twitter.com/shanky07`,
       },
       {
         name: `github`,
-        url: `https://github.com/narative`,
+        url: `https://github.com/shanky31`,
       },
       {
         name: `instagram`,
-        url: `https://instagram.com/narative.co`,
-      },
-      {
-        name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
-      },
-      {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
+        url: `https://instagram.com/shanky.codes`,
       },
     ],
   },

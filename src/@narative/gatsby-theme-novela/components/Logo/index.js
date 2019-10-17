@@ -1,5 +1,5 @@
 import React from 'react';
-import {link} from 'gatsby';
+import {Link} from 'gatsby';
 
 /**
  * Paste in your SVG logo and return it from this component.
@@ -8,6 +8,6 @@ import {link} from 'gatsby';
  */
 export default function Logo() {
   return (
-    <link to="/"><h1 style= {{fontSize: '2.5rem'}}>Shanky</h1></link>
+    <Link to="/"><h1 style= {{fontSize: '2.5rem'}}>Shanky</h1></Link>
   );
 }

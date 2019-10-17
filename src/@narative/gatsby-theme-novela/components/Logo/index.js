@@ -8,6 +8,6 @@ import {link} from 'gatsby';
  */
 export default function Logo() {
   return (
-    <link to="/"><h1 style= {fontsize : '2.5rem'}>Shanky</h1></link>
+    <link to="/"><h1 style= {{fontSize: '2.5rem'}}>Shanky</h1></link>
   );
 }
